@@ -1,2 +1,2 @@
 # ccb-releases
-Ressource UI Core CMS Bundle
+Ressources UI versionnées du CMS core Bundle.
